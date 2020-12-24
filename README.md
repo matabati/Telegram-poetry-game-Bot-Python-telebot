@@ -1,0 +1,2 @@
+# Telegram-poetry-game-Bot-Python-telebot
+The code below is a telegram bot that i designed for fun to play a game that we call Moshaere in Persian and the point of the game is that your first poet's letter must match with the last person last poet's letter. The bot sign you up for the game, pick a random person and start the match. There will be a ranking at last too. Hope the code can help you with making bots in telegram with python.
