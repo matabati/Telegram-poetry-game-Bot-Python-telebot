@@ -19,7 +19,7 @@ end = 0
 want_ans = 0
 menu = ['Start a new game','Force start','Join game','Force stop','Rules','Members']
 
-bot_token = "1229276480:AAEWkiONaKKkH-fRNrhvG5qq0eD0pNu0JmQ"
+bot_token = "///"
 
 bot = telebot.TeleBot(bot_token)
 
